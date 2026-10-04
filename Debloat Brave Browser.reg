@@ -33,7 +33,6 @@
 "HideWebStoreIcon"=dword:00000001
 "DesktopSharingHubEnabled"=dword:00000000
 "QRCodeGeneratorEnabled"=dword:00000000
-"EnableMediaRouter"=dword:00000000
 "ShowCastIconInToolbar"=dword:00000000
 "LiveCaptionEnabled"=dword:00000000
 "BackgroundModeEnabled"=dword:00000000
