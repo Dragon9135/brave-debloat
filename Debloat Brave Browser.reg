@@ -11,7 +11,6 @@
 "BravePlaylistEnabled"=dword:00000000
 "BraveWebDiscoveryEnabled"=dword:00000000
 "EmailAliasesEnabled"=dword:00000000
-"IPFSEnabled"=dword:00000000
 "PsstEnabled"=dword:00000000
 "BraveP3AEnabled"=dword:00000000
 "BraveStatsPingEnabled"=dword:00000000
@@ -25,10 +24,8 @@
 "BuiltInAIAPIsEnabled"=dword:00000000
 "GenAiDefaultSettings"=dword:00000002
 "PromotionsEnabled"=dword:00000000
-"PromotionalTabsEnabled"=dword:00000000
 "ShoppingListEnabled"=dword:00000000
 "MediaRecommendationsEnabled"=dword:00000000
-"BrowserLabsEnabled"=dword:00000000
 "DefaultBrowserSettingEnabled"=dword:00000000
 "HideWebStoreIcon"=dword:00000001
 "DesktopSharingHubEnabled"=dword:00000000
@@ -38,9 +35,4 @@
 "BackgroundModeEnabled"=dword:00000000
 "SpellCheckServiceEnabled"=dword:00000000
 "AlternateErrorPagesEnabled"=dword:00000000
-"NetworkPredictionOptions"=dword:00000002
-"PrivacySandboxPromptEnabled"=dword:00000000
-"PrivacySandboxAdMeasurementEnabled"=dword:00000000
-"PrivacySandboxAdTopicsEnabled"=dword:00000000
-"PrivacySandboxSiteEnabledAdsEnabled"=dword:00000000
 "PrintingEnabled"=dword:00000000
